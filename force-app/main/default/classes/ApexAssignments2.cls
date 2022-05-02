@@ -1,6 +1,4 @@
 
-
-
 public class ApexAssignments2 
 {
  //1. print series 1-10 using list
