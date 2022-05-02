@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <types>
+        <members>AccountController</members>
+        <members>Company</members>
+        <members>Covid19</members>
+        <members>Covid19Test</members>
+        <members>Fitness</members>
+        <members>FitnessTest</members>
+        <members>Friends</members>
+        <members>Helloworld</members>
+        <members>ListDemo</members>
+        <members>OperatorDemo</members>
+        <members>ApexAssignments</members>
+         <members>ApexAssignments2</members>
+        <name>ApexClass</name>
+    </types>
+    <version>53.0</version>
+</Package>
