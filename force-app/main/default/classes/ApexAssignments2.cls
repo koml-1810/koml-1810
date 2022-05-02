@@ -1,4 +1,3 @@
-
 public class ApexAssignments2 
 {
  //1. print series 1-10 using list
@@ -37,7 +36,10 @@ for(integer j=5;j<=numbersList.size();j++)
            System.debug(j+' ');     
     }
  }
-
+    
+    
+    
+    
 //3. find sum of digits using list
  public static void sumOfdigits(Integer num) 
  {
