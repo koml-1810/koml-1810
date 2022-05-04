@@ -11,7 +11,7 @@ public static Decimal simpleInterest(Integer principal, Decimal rateOfInterest, 
     Decimal si =(principal * rateOfInterest * noOfYears)/100;
     return si;
 }
-    
+
 public static Decimal grossSalary(Integer basicSalary)
 {
     Decimal da = 0.2 * basicSalary;

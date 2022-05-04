@@ -146,6 +146,8 @@ public static void interSection()
    System.debug('Intersection :'+list3);  
 }
 
+
+
 //8. Reverse a string
 public static void revString(String abc)
 {
